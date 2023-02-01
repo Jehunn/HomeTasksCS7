@@ -1,0 +1,14 @@
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7\bin\Debug\netcoreapp3.1\HomeWorkCS7.exe
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7\bin\Debug\netcoreapp3.1\HomeWorkCS7.deps.json
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7\bin\Debug\netcoreapp3.1\HomeWorkCS7.runtimeconfig.json
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7\bin\Debug\netcoreapp3.1\HomeWorkCS7.runtimeconfig.dev.json
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7\bin\Debug\netcoreapp3.1\HomeWorkCS7.dll
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7\bin\Debug\netcoreapp3.1\HomeWorkCS7.pdb
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7\obj\Debug\netcoreapp3.1\HomeWorkCS7.csproj.AssemblyReference.cache
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7\obj\Debug\netcoreapp3.1\HomeWorkCS7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7\obj\Debug\netcoreapp3.1\HomeWorkCS7.AssemblyInfoInputs.cache
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7\obj\Debug\netcoreapp3.1\HomeWorkCS7.AssemblyInfo.cs
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7\obj\Debug\netcoreapp3.1\HomeWorkCS7.csproj.CoreCompileInputs.cache
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7\obj\Debug\netcoreapp3.1\HomeWorkCS7.dll
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7\obj\Debug\netcoreapp3.1\HomeWorkCS7.pdb
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7\obj\Debug\netcoreapp3.1\HomeWorkCS7.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7.5\bin\Debug\netcoreapp3.1\HomeTasksCS7.5.exe
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7.5\bin\Debug\netcoreapp3.1\HomeTasksCS7.5.deps.json
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7.5\bin\Debug\netcoreapp3.1\HomeTasksCS7.5.runtimeconfig.json
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7.5\bin\Debug\netcoreapp3.1\HomeTasksCS7.5.runtimeconfig.dev.json
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7.5\bin\Debug\netcoreapp3.1\HomeTasksCS7.5.dll
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7.5\bin\Debug\netcoreapp3.1\HomeTasksCS7.5.pdb
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7.5\obj\Debug\netcoreapp3.1\HomeTasksCS7.5.csproj.AssemblyReference.cache
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7.5\obj\Debug\netcoreapp3.1\HomeTasksCS7.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7.5\obj\Debug\netcoreapp3.1\HomeTasksCS7.5.AssemblyInfoInputs.cache
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7.5\obj\Debug\netcoreapp3.1\HomeTasksCS7.5.AssemblyInfo.cs
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7.5\obj\Debug\netcoreapp3.1\HomeTasksCS7.5.csproj.CoreCompileInputs.cache
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7.5\obj\Debug\netcoreapp3.1\HomeTasksCS7.5.dll
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7.5\obj\Debug\netcoreapp3.1\HomeTasksCS7.5.pdb
+C:\Users\chabo\source\repos\HomeWorkCS7\HomeWorkCS7.5\obj\Debug\netcoreapp3.1\HomeTasksCS7.5.genruntimeconfig.cache
